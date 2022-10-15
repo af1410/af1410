@@ -2,7 +2,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning at ma'soem university
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me firmansyahardi307@gmail.com
+- 📫 Reach me 
+www.instagram.com/ardi_firmansyah_14
+firmansyahardi307@gmail.com
 
 <!---
 af1410/af1410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
